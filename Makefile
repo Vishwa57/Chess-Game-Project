@@ -34,4 +34,4 @@ Pawn.o: Pawn.cpp Pawn.h
 
 # Removing all .o files
 clean:
-	rm *.o out
+	del *.o out
